@@ -8,5 +8,5 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
-[ ] Blockchains with BASIC
+- [ ] Blockchains with BASIC
 
